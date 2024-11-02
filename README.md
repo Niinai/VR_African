@@ -1,2 +1,3 @@
-# VR_African
-My personal repository 
+# About me
+# 25yrs 
+# Learning python 
